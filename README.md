@@ -1,5 +1,7 @@
 # Answering Business questions about a digital music store
 
+## Introduction
+
 The [Chinook database](https://github.com/lerocha/chinook-database) contains information about a fictional digital 
 music shop like a mini-iTunes store. The Chinook database includes information on the artists, songs, and albums 
 from the music shop and information on the shop's employees, customers, and purchases. 
