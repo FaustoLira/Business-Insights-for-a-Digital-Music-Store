@@ -1,4 +1,4 @@
-# Answering Business questions about a digital music store
+# Business Insights for a Digital Music Store
 
 ## Introduction
 
