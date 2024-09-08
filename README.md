@@ -1,6 +1,6 @@
 # Business Insights for a Digital Music Store
 
-## Introduction
+## Objective
 
 The [Chinook database](https://github.com/lerocha/chinook-database) contains information about a fictional digital 
 music shop like a mini-iTunes store. The Chinook database includes information on the artists, songs, and albums 
@@ -23,6 +23,14 @@ In this project, we will address three tasks:
   - Employed aggregation functions such as COUNT, SUM, AVG, and MAX in conjunction with GROUP BY 
   to analyze sales performance and employee metrics.
 
+## Impact
+
+Improved sales and customer satisfaction through targeted album recommendations, optimized employee 
+performance, and delivered critical insights into regional market preferences.
+
+## Visuals
+
+Database schema and tables.
 
 ## Dependency Versions
 
